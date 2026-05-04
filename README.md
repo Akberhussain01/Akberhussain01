@@ -1,16 +1,41 @@
-## Hi there 👋
+### 👋 Hi, I'm Mohammed Akber Hussain
 
-<!--
-**Akberhussain01/Akberhussain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software Engineer and Full Stack Developer based in Hyderabad, India. I am passionate about building real-world web applications and transforming ideas into practical, scalable solutions. Whenever I come up with an idea, I focus on developing and deploying it.
 
-Here are some ideas to get you started:
+My primary interests lie in Data Structures & Algorithms, Python, and modern web development. I actively practice problem-solving on LeetCode and continuously work on improving my technical and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Focus
+
+* Full Stack Development
+* Data Structures & Algorithms
+* Python Programming
+* Problem Solving
+
+---
+
+### 🚀 What I Do
+
+* Build and deploy web applications
+* Practice coding daily on LeetCode
+* Work on real-world development projects
+* Continuously learn and improve
+
+---
+
+### 🎯 Fun Facts
+
+* Passionate about coding and development
+* Enjoy learning new technologies
+* Interested in building impactful projects
+* Hobbies: coding, tech exploration, and project building
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/Akberhussain01
+* LeetCode: https://leetcode.com/u/Akberhussain01/
+* Email: [akberhussain040@gmail.com](mailto:akberhussain040@gmail.com)
+* portfolio: https://mohammedakber.vercel.app/
