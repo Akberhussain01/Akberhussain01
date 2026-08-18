@@ -38,4 +38,4 @@ My primary interests lie in Data Structures & Algorithms, Python, and modern web
 * GitHub: https://github.com/Akberhussain01
 * LeetCode: https://leetcode.com/u/Akberhussain01/
 * Email: [akberhussain040@gmail.com](mailto:akberhussain040@gmail.com)
-* portfolio: https://mohammedakber.vercel.app/
+* portfolio: https://akberhussain.is-a.dev/
